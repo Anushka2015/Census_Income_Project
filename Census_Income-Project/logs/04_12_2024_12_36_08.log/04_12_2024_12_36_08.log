@@ -1,0 +1,96 @@
+[ 2024-04-12 12:36:10,606 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:36:10,643 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:36:10,746 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:36:10,786 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:36:12,869 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-04-12 12:36:18,640 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:36:18] "[37mGET /predict HTTP/1.1[0m" 200 -
+[ 2024-04-12 12:36:18,679 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:36:18] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[ 2024-04-12 12:36:42,597 ] 80 root - INFO - Dataframe Gathered
+[ 2024-04-12 12:36:44,865 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_slsqp_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,865 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_slsqp_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,876 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_root.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,877 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_root.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,879 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_minpack_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,881 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_minpack_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,890 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,894 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\least_squares.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,895 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\least_squares.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,898 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\trf.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,901 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\common.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,904 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\dogbox.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,907 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\lsq_linear.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,909 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\trf_linear.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,922 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__pycache__\\bvls.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,924 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_spectral.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,932 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_nonlin.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,934 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_root_scalar.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,938 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_zeros_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,948 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_nnls.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,963 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_basinhopping.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,967 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,970 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog_highs.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:44,972 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_highs\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,021 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog_ip.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,025 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog_util.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,027 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_remove_redundancy.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,030 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\linalg\\__pycache__\\interpolative.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,034 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\linalg\\__pycache__\\_interpolative_backend.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,054 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog_simplex.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,057 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog_rs.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,070 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_linprog_doc.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,083 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_differentialevolution.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,091 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_shgo.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,092 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_shgo_lib\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,096 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\_shgo_lib\\__pycache__\\triangulation.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,101 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_dual_annealing.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,103 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_qap.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,106 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_direct_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,123 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\_milp.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,126 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\cobyla.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,129 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\lbfgsb.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,131 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\linesearch.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,136 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\minpack.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,139 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\minpack2.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,142 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\moduleTNC.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,144 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\nonlin.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,147 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\optimize.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,149 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\slsqp.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,152 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\tnc.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,154 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\optimize\\__pycache__\\zeros.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,156 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,161 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_quadrature.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,163 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_odepack_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,179 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_quadpack_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,192 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_ode.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,235 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_bvp.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,240 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,244 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\ivp.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,247 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\bdf.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,249 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\common.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,255 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\base.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,259 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\radau.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,262 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\rk.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,265 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\dop853_coefficients.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,269 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__pycache__\\lsoda.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,273 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_quad_vec.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,275 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\dop.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,278 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\lsoda.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,280 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\vode.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,284 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\odepack.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,287 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\quadpack.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,290 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\_lib\\__pycache__\\_finite_differences.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,297 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\stats\\__pycache__\\_constants.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,306 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\stats\\__pycache__\\_continuous_distns.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,341 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\stats\\__pycache__\\_tukeylambda_stats.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,344 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\stats\\__pycache__\\_ksstats.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,347 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\stats\\_boost\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,724 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\stats\\__pycache__\\_discrete_distns.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,727 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,731 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_interpolate.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,734 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_fitpack_py.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,742 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_fitpack_impl.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,770 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_bsplines.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,783 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_polyint.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,796 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_fitpack2.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,812 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_rbf.cpython-39.pyc', reloading
+[ 2024-04-12 12:36:45,815 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_rbfinterp.cpython-39.pyc', reloading

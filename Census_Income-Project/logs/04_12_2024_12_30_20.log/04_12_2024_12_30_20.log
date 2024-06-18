@@ -1,0 +1,4 @@
+[ 2024-04-12 12:30:24,226 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:30:24,352 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:30:25,976 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-04-12 12:30:29,663 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\envs\\chicken\\Lib\\site.py', reloading

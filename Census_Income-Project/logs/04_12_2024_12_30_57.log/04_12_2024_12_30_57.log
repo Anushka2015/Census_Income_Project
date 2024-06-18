@@ -1,0 +1,31 @@
+[ 2024-04-12 12:30:58,924 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:30:58,950 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:31:00,160 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-04-12 12:31:06,537 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:31:06] "[37mGET / HTTP/1.1[0m" 200 -
+[ 2024-04-12 12:31:12,092 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:31:12] "[37mGET /predict HTTP/1.1[0m" 200 -
+[ 2024-04-12 12:31:12,151 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:31:12] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[ 2024-04-12 12:31:34,387 ] 80 root - INFO - Dataframe Gathered
+[ 2024-04-12 12:31:34,615 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\base.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,617 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\bsr.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,619 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\compressed.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,621 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\construct.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,622 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\coo.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,626 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\csc.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,628 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\csr.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,630 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\data.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,632 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\dia.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,635 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\dok.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,636 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\extract.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,638 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\lil.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,640 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\sparsetools.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,644 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\__pycache__\\sputils.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,660 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\sklearn\\utils\\__pycache__\\class_weight.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,663 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\sklearn\\utils\\__pycache__\\_joblib.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,668 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,672 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\memory.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,675 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\hashing.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,679 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\func_inspect.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,681 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\logger.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,682 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\disk.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,693 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\_store_backends.cpython-39.pyc', reloading
+[ 2024-04-12 12:31:34,695 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\joblib\\__pycache__\\backports.cpython-39.pyc', reloading

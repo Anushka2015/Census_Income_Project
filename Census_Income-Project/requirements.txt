@@ -1,0 +1,9 @@
+numpy
+pandas
+flask
+seaborn
+scikit-learn
+datetime
+dataclasses
+-e.
+

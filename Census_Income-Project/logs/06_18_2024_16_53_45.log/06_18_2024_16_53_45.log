@@ -1,0 +1,25 @@
+[ 2024-06-18 16:53:46,687 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-18 16:53:46,728 ] 113 werkzeug - INFO -  * Debugger PIN: 161-147-940
+[ 2024-06-18 16:53:47,916 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\concurrent\\__init__.py', reloading
+[ 2024-06-18 16:53:47,917 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\distutils\\__init__.py', reloading
+[ 2024-06-18 16:53:47,918 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\idlelib\\__init__.py', reloading
+[ 2024-06-18 16:53:47,919 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\lib2to3\\__init__.py', reloading
+[ 2024-06-18 16:53:47,921 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\test\\__init__.py', reloading
+[ 2024-06-18 16:53:47,923 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\turtledemo\\__init__.py', reloading
+[ 2024-06-18 16:53:47,925 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\wsgiref\\__init__.py', reloading
+[ 2024-06-18 16:53:47,926 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\xml\\__init__.py', reloading
+[ 2024-06-18 16:53:48,205 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\xmlrpc\\__init__.py', reloading
+[ 2024-06-18 16:53:48,206 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\absl\\__init__.py', reloading
+[ 2024-06-18 16:53:48,207 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\adodbapi\\__init__.py', reloading
+[ 2024-06-18 16:53:48,209 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\__init__.py', reloading
+[ 2024-06-18 16:53:48,251 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\client.py', reloading
+[ 2024-06-18 16:53:48,286 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-06-18 16:53:48,403 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\connector.py', reloading
+[ 2024-06-18 16:53:48,521 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\client_exceptions.py', reloading
+[ 2024-06-18 16:53:48,540 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\client_reqrep.py', reloading
+[ 2024-06-18 16:53:48,678 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\client_ws.py', reloading
+[ 2024-06-18 16:53:48,695 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\cookiejar.py', reloading
+[ 2024-06-18 16:53:48,723 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\formdata.py', reloading
+[ 2024-06-18 16:53:48,738 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\helpers.py', reloading
+[ 2024-06-18 16:53:48,823 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\http.py', reloading
+[ 2024-06-18 16:53:48,839 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\aiohttp\\http_writer.py', reloading

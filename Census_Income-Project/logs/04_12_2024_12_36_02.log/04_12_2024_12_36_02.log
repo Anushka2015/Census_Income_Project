@@ -1,0 +1,6 @@
+[ 2024-04-12 12:36:04,563 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:36:04,631 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:36:04,687 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:36:04,718 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:36:06,783 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\matplotlib_inline\\backend_inline.py', reloading
+[ 2024-04-12 12:36:06,806 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\matplotlib_inline\\config.py', reloading

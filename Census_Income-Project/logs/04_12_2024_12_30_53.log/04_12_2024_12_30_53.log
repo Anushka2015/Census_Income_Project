@@ -1,0 +1,18 @@
+[ 2024-04-12 12:30:54,242 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:30:54,273 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:30:55,251 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-04-12 12:30:55,953 ] 80 root - INFO - Dataframe Gathered
+[ 2024-04-12 12:30:56,251 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\__pycache__\\arpack.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,273 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\__pycache__\\__init__.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,278 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\__pycache__\\lobpcg.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,281 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\__pycache__\\_svds.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,284 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\_matfuncs.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,287 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\_expm_multiply.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,291 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\_onenormest.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,294 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\_norm.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,296 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\isolve.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,299 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\dsolve.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,301 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\interface.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,304 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\eigen.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,308 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\linalg\\__pycache__\\matfuncs.cpython-39.pyc', reloading
+[ 2024-04-12 12:30:56,325 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\scipy\\sparse\\csgraph\\__pycache__\\_validation.cpython-39.pyc', reloading

@@ -1,0 +1,6 @@
+[ 2024-04-12 12:36:47,567 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:36:47,611 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:36:48,621 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-04-12 12:38:02,071 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:38:02] "[37mGET /predict HTTP/1.1[0m" 200 -
+[ 2024-04-12 12:38:02,777 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:38:02] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[ 2024-04-12 12:38:02,988 ] 113 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2024 12:38:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

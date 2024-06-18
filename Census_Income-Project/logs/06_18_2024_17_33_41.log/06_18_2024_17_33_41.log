@@ -1,0 +1,10 @@
+[ 2024-06-18 17:33:42,868 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-06-18 17:33:44,767 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-18 17:33:44,790 ] 224 werkzeug - INFO -  * Debugger PIN: 122-612-985
+[ 2024-06-18 17:36:44,028 ] 224 werkzeug - INFO - 127.0.0.1 - - [18/Jun/2024 17:36:44] "GET / HTTP/1.1" 200 -
+[ 2024-06-18 17:36:44,353 ] 224 werkzeug - INFO - 127.0.0.1 - - [18/Jun/2024 17:36:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-06-18 17:37:28,480 ] 224 werkzeug - INFO - 127.0.0.1 - - [18/Jun/2024 17:37:28] "GET /predict HTTP/1.1" 200 -
+[ 2024-06-18 17:37:28,591 ] 224 werkzeug - INFO - 127.0.0.1 - - [18/Jun/2024 17:37:28] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[ 2024-06-18 17:37:41,326 ] 80 root - INFO - Dataframe Gathered
+[ 2024-06-18 17:37:48,201 ] 224 werkzeug - INFO - 127.0.0.1 - - [18/Jun/2024 17:37:48] "POST /predict HTTP/1.1" 200 -
+[ 2024-06-18 17:55:11,590 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Vision\\OneDrive\\Desktop\\Census_Income-Project\\app.py', reloading

@@ -1,0 +1,5 @@
+[ 2024-06-18 16:53:31,250 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-18 16:53:31,305 ] 113 werkzeug - INFO -  * Debugger PIN: 161-147-940
+[ 2024-06-18 16:53:33,114 ] 113 werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[ 2024-06-18 16:53:35,949 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\flask\\__init__.py', reloading
+[ 2024-06-18 16:53:35,978 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\flask\\app.py', reloading

@@ -1,0 +1,6 @@
+[ 2024-04-12 12:35:29,992 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-12 12:35:30,054 ] 113 werkzeug - INFO -  * Debugger PIN: 623-489-910
+[ 2024-04-12 12:35:34,015 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\jupyter_client\\jsonutil.py', reloading
+[ 2024-04-12 12:35:34,045 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\jupyter_client\\localinterfaces.py', reloading
+[ 2024-04-12 12:35:34,067 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\traitlets\\log.py', reloading
+[ 2024-04-12 12:35:34,297 ] 113 werkzeug - INFO -  * Detected change in 'C:\\Users\\Public\\miniconda3\\Lib\\site-packages\\traitlets\\__init__.py', reloading
